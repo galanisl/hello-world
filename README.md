@@ -1,2 +1,5 @@
 # hello-world
-The Hello World repository from the GitHub guides
+
+Hi y'all!!!
+
+I'm Greg, a computational biologists with a keen interest in version control.
